@@ -1,6 +1,5 @@
 # Desafio de Programação
 
-Este repositório contém as soluções para alguns desafios de programação que desenvolvi em Java. Os desafios abordam temas como laços de repetição, sequência de Fibonacci, manipulação de strings e análise de dados de faturamento.
 
 ## Índice
 
